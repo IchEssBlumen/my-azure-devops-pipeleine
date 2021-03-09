@@ -2,5 +2,5 @@
 def fun(a):
     return a - 1
 
-def test-method():
+def test_method():
     assert fun(6) == 5
